@@ -17,7 +17,7 @@
         tools:layout="@layout/fragment_favorite" />
     <fragment
         android:id="@+id/foodJokeFragment"
-        android:name="com.pizzu.pizzufood.foodJokeFragment"
+        android:name="com.pizzu.pizzufood.FoodJokeFragment"
         android:label="fragment_food_joke"
         tools:layout="@layout/fragment_food_joke" />
 </navigation>
